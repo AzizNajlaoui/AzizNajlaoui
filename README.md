@@ -1,12 +1,12 @@
 # hELLO 👋
 
-I'm **Aziz Najlaoui**, a CS student , competitve progammer and **Frontend Developer** passionate about turning ideas into real-world applications.
+I'm **Aziz Najlaoui**, second-year Computer Science student at ISAMM in Tunisia , competitve progammer and **Frontend Developer** passionate about turning ideas into real-world applications.
 
 🚀 I’m currently improving my frontend development skills while exploring backend and mobile development.
 
 🌱 Currently learning  the **.NET Framework**  
 
-🤝 Open to collaborating on passionate and creative projects
+🤝 looking for a summer internship or  freelance work  where I can learn from real-world projects
 
 ## 📫 Socials
 
