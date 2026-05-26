@@ -1,16 +1,34 @@
-## Hi there 👋
+# hELLO 👋
 
-<!--
-**AzizNajlaoui/AzizNajlaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Aziz Najlaoui**, a CS student , competitve progammer and **Frontend Developer** passionate about turning ideas into real-world applications.
 
-Here are some ideas to get you started:
+🚀 I’m currently improving my frontend development skills while exploring backend and mobile development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning  the **.NET Framework**  
+
+🤝 Open to collaborating on passionate and creative projects
+
+## 📫 Socials
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-najlaoui)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/aziz22)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:medaziznajlaoui@gmail.com)
+
+## 💻 Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind\&perline=8)](https://skillicons.dev)
+
+## ⚙️ Backend
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,supabase\&perline=4)](https://skillicons.dev)
+
+## 🧠 Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,ts,cs,python\&perline=6)](https://skillicons.dev)
+
+## 🛠️ Tools
+
+[![My Skills](https://skillicons.dev/icons?i=figma,bun,ps,androidstudio\&perline=6)](https://skillicons.dev)
