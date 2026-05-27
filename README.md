@@ -19,16 +19,22 @@ I'm **Aziz Najlaoui**, second-year Computer Science student at ISAMM in Tunisia 
 
 ## 💻 Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind\&perline=8)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" /> 
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) 
 ## ⚙️ Backend
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,supabase\&perline=4)](https://skillicons.dev)
 
 ## 🧠 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,js,ts,cs,python\&perline=6)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" height="60" />
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+<img src="https://techstack-generator.vercel.app/js-icon.svg" height="60" />
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+<img src="https://techstack-generator.vercel.app/python-icon.svg" height="50" />
 ## 🛠️ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=figma,bun,ps,androidstudio\&perline=6)](https://skillicons.dev)
