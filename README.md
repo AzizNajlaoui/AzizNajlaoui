@@ -1,4 +1,11 @@
 # hELLO 👋
+<div style="diplay:flex;flex-direction:row">
+  
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZ0ang3cWJweml0NmhraHFkZGM3cTg2eTZ6dXQ3cDYzcHBvaWV1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq72gPlwox4o2n6/giphy.gif" width="60" />
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM1aDJoenV4eXBqaWF5YmdicmhuM3BkOGxpMjBuZ3VpdDF3dzUycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="50" /> 
+</div>
+
 
 I'm **Aziz Najlaoui**, second-year Computer Science student at ISAMM in Tunisia , competitve progammer and **Frontend Developer** passionate about turning ideas into real-world applications.
 
